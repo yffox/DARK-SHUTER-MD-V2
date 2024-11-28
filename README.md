@@ -47,7 +47,7 @@
 
 ## || GET SESSION 💃
 
-***[GET SESSION SERVER 01](https://pair-fky4.onrender.com)***
+***[GET SESSION SERVER 01]([https://pair-fky4.onrender.com](https://pair-1r2f.onrender.com/))***
 <br>
 <br>
 ***[GET SESSION SERVER 02](https://profound-erminia-jthu-6b714ec7.koyeb.app/)***
@@ -65,9 +65,9 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2B1VYo)
 <br>
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH-MD&template=https://github.com/PrabathLK/PRABATH-MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/DarksadasYT1/DARK-SHUTER-MD-V2&template=https://github.com/DarksadasYT1/DARK-SHUTER-MD-V2.git)
 
 <br>
 
   
-<a href="https://github.com/prabathLK/PRABATH-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="fork prabath-md" height="65" width="170" /></a>
+<a href="https://github.com/DarksadasYT1/DARK-SHUTER-MD-V2/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="fork dark-shuter" height="65" width="170" /></a>
