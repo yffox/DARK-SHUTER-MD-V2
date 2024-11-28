@@ -13,11 +13,11 @@ We are actively maintaining the following versions of **PRABATHMD**. Please ensu
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in **PRABATHMD**, we encourage you to report it responsibly. Please avoid publicly disclosing the vulnerability until we have had a chance to address it.
+If you discover a security vulnerability in **DARKSHUTER**, we encourage you to report it responsibly. Please avoid publicly disclosing the vulnerability until we have had a chance to address it.
 
 To report a vulnerability, please email us at:
 
-- **Security contact**: [prabathmdofficial@gmail.com]
+- **Security contact**: [sadasthemi@gmail.com]
 
 In your report, please include the following details:
 
@@ -33,7 +33,7 @@ We will do our best to acknowledge your report within 72 hours and aim to resolv
 We will post security updates and patches through:
 
 - GitHub releases
-- PRABATHMD project documentation
+- DARKSHUTER project documentation
 
 We recommend that you keep your project up to date with the latest security patches.
 
@@ -44,4 +44,4 @@ We ask that all reporters comply with our Responsible Disclosure Policy by:
 - Giving us adequate time to investigate and resolve the vulnerability before making it public.
 - Avoiding privacy violations, disruption of services, or destruction of data while testing the vulnerability.
 
-Thank you for helping us keep **PRABATHMD** secure!
+Thank you for helping us keep **DARKSHUTER** secure!
