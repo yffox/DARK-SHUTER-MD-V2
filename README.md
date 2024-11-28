@@ -47,7 +47,7 @@
 
 ## || GET SESSION 💃
 
-***[GET SESSION SERVER 01]([https://pair-fky4.onrender.com](https://pair-1r2f.onrender.com/))***
+***[GET SESSION SERVER 01](https://pair-1r2f.onrender.com/)***
 <br>
 <br>
 ***[GET SESSION SERVER 02](https://profound-erminia-jthu-6b714ec7.koyeb.app/)***
