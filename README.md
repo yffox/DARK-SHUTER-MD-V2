@@ -41,7 +41,7 @@
 
 
  ### `VERSION : 2.0.0 - V2`
- `Release date : ` _2024-11-22_ | 
+ `Release date : ` _2024-11-29_ | 
 
 </div>
 
