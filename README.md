@@ -47,13 +47,13 @@
 
 ## || GET SESSION 💃
 
-***[GET SESSION SERVER 01](https://pair-1r2f.onrender.com/)***
+***[GET SESSION SERVER 01](https://session-hyper-hackers.vercel.app/)***
 <br>
 <br>
-***[GET SESSION SERVER 02](https://profound-erminia-jthu-6b714ec7.koyeb.app/)***
+***[GET SESSION SERVER 02](https://session-hyper-hackers.vercel.app/)***
 <br>
 <br>
-***[GET SESSION SERVER 03](https://profound-erminia-jthu-6b714ec7.koyeb.app/)***
+***[GET SESSION SERVER 03](https://session-hyper-hackers.vercel.app/)***
 
 ## || DEPLOYMENT PLATFORMS 💃
 
@@ -62,7 +62,7 @@
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/DarksadasYT1/DARK-SHUTER-MD-V2&branch=main&env[SESSION_ID]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=Dark-shuter)
 <br>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2B1VYo)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template)
 <br>
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/DarksadasYT1/DARK-SHUTER-MD-V2&template=https://github.com/DarksadasYT1/DARK-SHUTER-MD-V2.git)
