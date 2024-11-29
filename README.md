@@ -47,7 +47,7 @@
 
 ## || GET SESSION 💃
 
-***[GET SESSION SERVER 01](https://session-hyper-hackers.vercel.app/)***
+***[GET SESSION SERVER 01](https://pair-kyse.onrender.com/)***
 <br>
 <br>
 ***[GET SESSION SERVER 02](https://session-hyper-hackers.vercel.app/)***
