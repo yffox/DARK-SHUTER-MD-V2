@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: 'put session',
 GITHUB_TOKEN: 'put github token',
-REPO_NAME: 'put like repo name',
+
 GITHUB_USER_NAME: 'put your github user name',
 
 };
