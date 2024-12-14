@@ -4,14 +4,9 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 
-
 module.exports = {
-SESSION_ID: 'put session',
-GITHUB_TOKEN: 'put github token',
-
-GITHUB_USER_NAME: 'put your github user name',
+SESSION_ID: 'session id',
+GITHUB_AUTH_TOKEN: 'put token', //"ghp_ " මෙම කොටස ඉවත් කර token එක දාන්න.
+GITHUB_USER_NAME: 'your github user name',
 
 };
-
-//In this case, you should use a Repo name that was not previously created in your Github account for the Repo name. Should Github username be used as the username of that github account and the token should also be obtained from the same github account.
-//මෙහීදි ඔබ විසින් Repo name සදහා බාවිතා කළ යුත්තෙ මින් පෙර ඔබගේ Github account එක තුල නොසෑදූ Repo name එකකි. Github user name එක සදහා යොදා ගත යුත්තේද එම github account එකෙ User name එක වන අතරම token එකද ලබා ගත යුත්තෙ එම github account එකෙන්මය
