@@ -40,20 +40,22 @@
 *👨‍🔧 A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
 
- ### `VERSION : 2.0.0 - V2`
+
  `Release date : ` _2024-11-29_ | 
+ `Last update : ` _2024-12-14_ |
+ `Last version : ` _2.0.2_ |
 
 </div>
 
 ## || GET SESSION 💃
 
-***[GET SESSION SERVER 01](https://pair-kyse.onrender.com/)***
+***[GET SESSION SERVER 01](https://hyper-hackers-connection-kushansewmina789.koyeb.app)***
 <br>
 <br>
 ***[GET SESSION SERVER 02](https://session-hyper-hackers.vercel.app/)***
 <br>
 <br>
-***[GET SESSION SERVER 03](https://session-hyper-hackers.vercel.app/)***
+***[ALL SERVERS NOT WORKING CLICK HERE](https://session-hyper-hackers.vercel.app/qr-dark-shutter-md)***
 
 ## || DEPLOYMENT PLATFORMS 💃
 
