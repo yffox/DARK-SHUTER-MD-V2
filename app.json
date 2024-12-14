@@ -20,11 +20,8 @@
     "GITHUB_AUTH_TOKEN": {
       "description": "Put your github authtoken here.",
       "required": true
-    },
-    "REPO_NAME": {
-      "description": "Put your github authtoken here.",
-      "required": true
-    }   
+    }
+    
 },
 
      "buildpacks": [
