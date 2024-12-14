@@ -78,7 +78,7 @@
 
 <hr>
 
-<b>乂 COPY WORKFLOW CODE</b></br>
+<b>WORKFLOW CODE</b></br>
 ```
 name: Node.js CI
 
